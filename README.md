@@ -1,6 +1,6 @@
 # VMware Version Tracker
 
-This application tracks and displays the latest versions of VMware products:
+This application tracks and displays the latest versions of VMware products: 
 - VMware Tools versions
 - ESXi 8.x versions
 - ESXi 7.x versions
