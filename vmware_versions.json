@@ -1,0 +1,1117 @@
+{
+  "last_updated": "2025-06-17 11:59:49",
+  "vmware_tools": [
+    {
+      "version": "VMware Tools 12.5.2",
+      "release_date": "2025-05-12",
+      "build_number": "24697584",
+      "tool_internal_version": "12450"
+    },
+    {
+      "version": "VMware Tools 12.5.1",
+      "release_date": "2025-03-25",
+      "build_number": "24649672",
+      "tool_internal_version": "12449"
+    },
+    {
+      "version": "VMware Tools 12.5.0",
+      "release_date": "2024-10-08",
+      "build_number": "24276846",
+      "tool_internal_version": "12448"
+    },
+    {
+      "version": "VMware Tools 12.4.5",
+      "release_date": "2024-06-07",
+      "build_number": "23787635",
+      "tool_internal_version": "12421"
+    },
+    {
+      "version": "VMware Tools 12.4.0",
+      "release_date": "2024-03-21",
+      "build_number": "23259341",
+      "tool_internal_version": "12416"
+    },
+    {
+      "version": "VMware Tools 12.3.5",
+      "release_date": "2023-10-26",
+      "build_number": "22544099",
+      "tool_internal_version": "12389"
+    },
+    {
+      "version": "VMware Tools 12.3.0",
+      "release_date": "2023-08-31",
+      "build_number": "22234872",
+      "tool_internal_version": "12384"
+    },
+    {
+      "version": "VMware Tools 10.3.26 (Tar Tools and OSP)",
+      "release_date": "2023-08-31",
+      "build_number": "22085142",
+      "tool_internal_version": "10362"
+    },
+    {
+      "version": "VMware Tools 12.2.6",
+      "release_date": "2023-08-17",
+      "build_number": "22229486",
+      "tool_internal_version": "12358"
+    },
+    {
+      "version": "VMware Tools 12.2.5",
+      "release_date": "2023-06-13",
+      "build_number": "21855600",
+      "tool_internal_version": "12357"
+    },
+    {
+      "version": "VMware Tools 12.2.0",
+      "release_date": "2023-03-07",
+      "build_number": "21223074",
+      "tool_internal_version": "12352"
+    },
+    {
+      "version": "VMware Tools 12.1.5",
+      "release_date": "2022-11-29",
+      "build_number": "20735119",
+      "tool_internal_version": "12325"
+    },
+    {
+      "version": "VMware Tools 12.1.0",
+      "release_date": "2022-08-23",
+      "build_number": "20219665",
+      "tool_internal_version": "12320"
+    },
+    {
+      "version": "VMware Tools 10.3.25\u00a0(Tar Tools and OSP)",
+      "release_date": "2022-08-23",
+      "build_number": "20206839",
+      "tool_internal_version": "10361"
+    },
+    {
+      "version": "VMware Tools 12.0.6",
+      "release_date": "2022-07-21",
+      "build_number": "20104755",
+      "tool_internal_version": "12294"
+    },
+    {
+      "version": "VMware Tools 12.0.5",
+      "release_date": "2022-05-24",
+      "build_number": "19716617",
+      "tool_internal_version": "12293"
+    },
+    {
+      "version": "VMware Tools 12.0.0",
+      "release_date": "2022-03-01",
+      "build_number": "19345655",
+      "tool_internal_version": "12288"
+    },
+    {
+      "version": "VMware Tools 10.3.24\u00a0(Tar Tools and OSP)",
+      "release_date": "2021-11-23",
+      "build_number": "18733423",
+      "tool_internal_version": "10360"
+    },
+    {
+      "version": "VMware Tools 11.3.5",
+      "release_date": "2021-09-23",
+      "build_number": "18557794",
+      "tool_internal_version": "11365"
+    },
+    {
+      "version": "VMware Tools 11.3.0",
+      "release_date": "2021-06-17",
+      "build_number": "18090558",
+      "tool_internal_version": "11360"
+    },
+    {
+      "version": "VMware Tools 11.2.6",
+      "release_date": "2021-04-29",
+      "build_number": "17901274",
+      "tool_internal_version": "11334"
+    },
+    {
+      "version": "VMware Tools 11.2.5",
+      "release_date": "2021-01-12",
+      "build_number": "17337674",
+      "tool_internal_version": "11333"
+    },
+    {
+      "version": "VMware Tools 11.2.1",
+      "release_date": "2020-12-10",
+      "build_number": "17243207",
+      "tool_internal_version": "11329"
+    },
+    {
+      "version": "VMware Tools 10.3.23 (Tar Tools and OSP)",
+      "release_date": "2020-11-05",
+      "build_number": "17030940",
+      "tool_internal_version": "10359"
+    },
+    {
+      "version": "VMware Tools 11.2.0",
+      "release_date": "2020-10-15",
+      "build_number": "16938113",
+      "tool_internal_version": "11328"
+    },
+    {
+      "version": "VMware Tools 11.1.5",
+      "release_date": "2020-08-18",
+      "build_number": "16724464",
+      "tool_internal_version": "11301"
+    },
+    {
+      "version": "VMware Tools 11.1.1",
+      "release_date": "2020-06-18",
+      "build_number": "16303738",
+      "tool_internal_version": "11297"
+    },
+    {
+      "version": "VMware Tools 11.1.0",
+      "release_date": "2020-05-07",
+      "build_number": "16036546",
+      "tool_internal_version": "11296"
+    },
+    {
+      "version": "VMware Tools 10.3.22 (Tar Tools and OSP)",
+      "release_date": "2020-05-07",
+      "build_number": "15902021",
+      "tool_internal_version": "10358"
+    },
+    {
+      "version": "VMware Tools 11.0.6",
+      "release_date": "2020-04-07",
+      "build_number": "15940789",
+      "tool_internal_version": "11270"
+    },
+    {
+      "version": "VMware Tools 11.0.5",
+      "release_date": "2020-01-14",
+      "build_number": "15389592",
+      "tool_internal_version": "11269"
+    },
+    {
+      "version": "VMware Tools 11.0.1",
+      "release_date": "2019-10-17",
+      "build_number": "14773994",
+      "tool_internal_version": "11265"
+    },
+    {
+      "version": "VMware Tools 10.3.21 (Tar Tools and OSP)",
+      "release_date": "2019-10-17",
+      "build_number": "14772444",
+      "tool_internal_version": "10357"
+    },
+    {
+      "version": "VMware Tools 11.0.0",
+      "release_date": "2019-09-19",
+      "build_number": "14549434",
+      "tool_internal_version": "11264"
+    },
+    {
+      "version": "VMware Tools 10.3.20 (Tar Tools and OSP)",
+      "release_date": "2019-09-19",
+      "build_number": "14389227",
+      "tool_internal_version": "10356"
+    },
+    {
+      "version": "VMware Tools 10.3.10",
+      "release_date": "2019-03-14",
+      "build_number": "12406962",
+      "tool_internal_version": "10346"
+    },
+    {
+      "version": "VMware Tools 10.3.5",
+      "release_date": "2018-11-01",
+      "build_number": "10430147",
+      "tool_internal_version": "10341"
+    },
+    {
+      "version": "VMware Tools 10.3.2",
+      "release_date": "2018-09-12",
+      "build_number": "9925305",
+      "tool_internal_version": "10338"
+    },
+    {
+      "version": "VMware Tools 10.2.5",
+      "release_date": "2018-04-26",
+      "build_number": "8068406",
+      "tool_internal_version": "10309"
+    },
+    {
+      "version": "VMware Tools 10.2.1",
+      "release_date": "2018-03-29",
+      "build_number": "8267844",
+      "tool_internal_version": "10305"
+    },
+    {
+      "version": "VMware Tools 10.1.15",
+      "release_date": "2017-09-26",
+      "build_number": "6677369",
+      "tool_internal_version": "10287"
+    },
+    {
+      "version": "VMware Tools 10.1.10",
+      "release_date": "2017-07-27",
+      "build_number": "6082533",
+      "tool_internal_version": "10282"
+    },
+    {
+      "version": "VMware Tools 10.1.7",
+      "release_date": "2017-05-18",
+      "build_number": "5541682",
+      "tool_internal_version": "10279"
+    },
+    {
+      "version": "VMware Tools 10.1.5",
+      "release_date": "2017-02-23",
+      "build_number": "5055683",
+      "tool_internal_version": "10277"
+    },
+    {
+      "version": "VMware Tools 10.1.0",
+      "release_date": "2016-10-25",
+      "build_number": "4449150",
+      "tool_internal_version": "10272"
+    }
+  ],
+  "esxi_versions": {
+    "esxi8": [
+      {
+        "version": "ESXi 8.0 P05",
+        "release_name": "ESXi 8.0 Update 3e",
+        "release_date": "2025-04-10",
+        "build_number": "24674464",
+        "available_as": "ISO"
+      },
+      {
+        "version": "ESXi 8.0.0e",
+        "release_name": "ESXi 8.0e",
+        "release_date": "2025-03-11",
+        "build_number": "24569005",
+        "available_as": "ISO"
+      },
+      {
+        "version": "ESXi 8.0.3 EP4",
+        "release_name": "ESXi 8.0 Update 3d",
+        "release_date": "2025-03-04",
+        "build_number": "24585383",
+        "available_as": "Patch"
+      },
+      {
+        "version": "ESXi 8.0 Update 2d",
+        "release_name": "ESXi 8.0 Update 2d",
+        "release_date": "2025-03-04",
+        "build_number": "24585300",
+        "available_as": "Patch"
+      },
+      {
+        "version": "ESXi 8.0.3 EP3",
+        "release_name": "ESXi 8.0 Update 3c",
+        "release_date": "2024-12-12",
+        "build_number": "24414501",
+        "available_as": "Patch"
+      },
+      {
+        "version": "ESXi 8.0.3 P04",
+        "release_name": "ESXi 8.0 Update 3b",
+        "release_date": "2024-09-17",
+        "build_number": "24280767",
+        "available_as": "ISO"
+      },
+      {
+        "version": "ESXi 8.0.3",
+        "release_name": "ESXi 8.0 Update 3",
+        "release_date": "2024-06-25",
+        "build_number": "24022510",
+        "available_as": "ISO"
+      },
+      {
+        "version": "ESXi 8.0.2 EP2",
+        "release_name": "ESXi 8.0 Update 2c",
+        "release_date": "2024-05-21",
+        "build_number": "23825572",
+        "available_as": "Patch"
+      },
+      {
+        "version": "ESXi 8.0.1 U1d",
+        "release_name": "ESXi 8.0 Update 1d",
+        "release_date": "2024-03-05",
+        "build_number": "23299997",
+        "available_as": "Patch"
+      },
+      {
+        "version": "ESXi 8.0.2 P03",
+        "release_name": "ESXi 8.0 Update 2b",
+        "release_date": "2024-02-29",
+        "build_number": "23305546",
+        "available_as": "ISO"
+      },
+      {
+        "version": "ESXi 8.0.2",
+        "release_name": "ESXi 8.0 Update 2",
+        "release_date": "2023-09-21",
+        "build_number": "22380479",
+        "available_as": "ISO"
+      },
+      {
+        "version": "ESXi 8.0.1 P02",
+        "release_name": "ESXi 8.0 Update 1c",
+        "release_date": "2023-07-27",
+        "build_number": "22088125",
+        "available_as": "Patch"
+      },
+      {
+        "version": "ESXi 8.0.1 EP1",
+        "release_name": "ESXi 8.0 Update 1a",
+        "release_date": "2023-06-01",
+        "build_number": "21813344",
+        "available_as": "ISO"
+      },
+      {
+        "version": "ESXi 8.0.1",
+        "release_name": "ESXi 8.0 Update 1",
+        "release_date": "2023-04-18",
+        "build_number": "21495797",
+        "available_as": "ISO"
+      },
+      {
+        "version": "ESXi 8.0.0 EP2",
+        "release_name": "ESXi 8.0c",
+        "release_date": "2023-03-30",
+        "build_number": "21493926",
+        "available_as": "Patch"
+      },
+      {
+        "version": "ESXi 8.0.0 P01",
+        "release_name": "ESXi 8.0b",
+        "release_date": "2023-02-14",
+        "build_number": "21203435",
+        "available_as": "ISO"
+      },
+      {
+        "version": "ESXi 8.0.0 EP1",
+        "release_name": "ESXi 8.0a",
+        "release_date": "2022-12-08",
+        "build_number": "20842819",
+        "available_as": "ISO"
+      },
+      {
+        "version": "ESXi 8.0.0",
+        "release_name": "ESXi 8.0 GA",
+        "release_date": "2022-10-11",
+        "build_number": "20513097",
+        "available_as": "ISO"
+      }
+    ],
+    "esxi7": [
+      {
+        "version": "ESXi 7.0.3 P10",
+        "release_name": "ESXi 7.0 Update 3v",
+        "release_date": "2025-05-20",
+        "build_number": "24723872",
+        "available_as": "Patch"
+      },
+      {
+        "version": "ESXi 7.0.3 EP13",
+        "release_name": "ESXi 7.0 Update 3s",
+        "release_date": "2025-03-04",
+        "build_number": "24585291",
+        "available_as": "Patch"
+      },
+      {
+        "version": "ESXi 7.0.3 EP12",
+        "release_name": "ESXi 7.0 Update 3r",
+        "release_date": "2024-12-12",
+        "build_number": "24411414",
+        "available_as": "Patch"
+      },
+      {
+        "version": "ESXi 7.0.3 P09",
+        "release_name": "ESXi 7.0 Update 3q",
+        "release_date": "2024-05-21",
+        "build_number": "23794027",
+        "available_as": "Patch"
+      },
+      {
+        "version": "ESXi 7.0.3 EP11",
+        "release_name": "ESXi 7.0 Update 3p",
+        "release_date": "2024-04-11",
+        "build_number": "23307199",
+        "available_as": "Patch"
+      },
+      {
+        "version": "ESXi 7.0.3 P08",
+        "release_name": "ESXi 7.0 Update 3o",
+        "release_date": "2023-09-28",
+        "build_number": "22348816",
+        "available_as": "Patch"
+      },
+      {
+        "version": "ESXi 7.0.3 EP10",
+        "release_name": "ESXi 7.0 Update 3n",
+        "release_date": "2023-07-07",
+        "build_number": "21930508",
+        "available_as": "ISO"
+      },
+      {
+        "version": "ESXi 7.0.3 EP9",
+        "release_name": "ESXi 7.0 Update 3m",
+        "release_date": "2023-05-03",
+        "build_number": "21686933",
+        "available_as": "Patch"
+      },
+      {
+        "version": "ESXi 7.0.3 P07",
+        "release_name": "ESXi 7.0 Update 3l",
+        "release_date": "2023-03-30",
+        "build_number": "21424296",
+        "available_as": "ISO"
+      },
+      {
+        "version": "ESXi 7.0.3 EP8",
+        "release_name": "ESXi 7.0 Update 3k",
+        "release_date": "2023-02-21",
+        "build_number": "21313628",
+        "available_as": "Patch"
+      },
+      {
+        "version": "ESXi 7.0.3 EP7",
+        "release_name": "ESXi 7.0 Update 3j",
+        "release_date": "2023-01-31",
+        "build_number": "21053776",
+        "available_as": "Patch"
+      },
+      {
+        "version": "ESXi 7.0.3 P06",
+        "release_name": "ESXi 7.0 Update 3i",
+        "release_date": "2022-12-08",
+        "build_number": "20842708",
+        "available_as": "Patch"
+      },
+      {
+        "version": "ESXi 7.0.3 EP5",
+        "release_name": "ESXi 7.0 Update 3g",
+        "release_date": "2022-09-01",
+        "build_number": "20328353",
+        "available_as": "ISO"
+      },
+      {
+        "version": "ESXi 7.0.3 P05",
+        "release_name": "ESXi 7.0 Update 3f",
+        "release_date": "2022-07-12",
+        "build_number": "20036589",
+        "available_as": "ISO"
+      },
+      {
+        "version": "ESXi 7.0.3 EP4",
+        "release_name": "ESXi 7.0 Update 3e",
+        "release_date": "2022-06-14",
+        "build_number": "19898904",
+        "available_as": "Patch"
+      },
+      {
+        "version": "ESXi 7.0.3 P04",
+        "release_name": "ESXi 7.0 Update 3d",
+        "release_date": "2022-03-29",
+        "build_number": "19482537",
+        "available_as": "ISO"
+      },
+      {
+        "version": "ESXi 7.0.2 EP3",
+        "release_name": "ESXi 7.0 Update 2e",
+        "release_date": "2022-02-15",
+        "build_number": "19290878",
+        "available_as": "Patch"
+      },
+      {
+        "version": "ESXi 7.0.1 EP4",
+        "release_name": "ESXi 7.0 Update 1e",
+        "release_date": "2022-02-15",
+        "build_number": "19324898",
+        "available_as": "Patch"
+      },
+      {
+        "version": "ESXi 7.0.3 U3c",
+        "release_name": "ESXi 7.0 Update 3c",
+        "release_date": "2022-01-27",
+        "build_number": "19193900",
+        "available_as": "ISO"
+      },
+      {
+        "version": "ESXi 7.0.2 EP2",
+        "release_name": "ESXi 7.0 Update 2d",
+        "release_date": "2021-09-14",
+        "build_number": "18538813",
+        "available_as": "Patch"
+      },
+      {
+        "version": "ESXi 7.0.2 P03",
+        "release_name": "ESXi 7.0 Update 2c",
+        "release_date": "2021-08-24",
+        "build_number": "18426014",
+        "available_as": "Patch"
+      },
+      {
+        "version": "ESXi 7.0.2 EP1",
+        "release_name": "ESXi 7.0 Update 2a",
+        "release_date": "2021-04-29",
+        "build_number": "17867351",
+        "available_as": "ISO"
+      },
+      {
+        "version": "ESXi 7.0.2",
+        "release_name": "ESXi 7.0 Update 2",
+        "release_date": "2021-03-09",
+        "build_number": "17630552",
+        "available_as": "Patch"
+      },
+      {
+        "version": "ESXi 7.0.1 EP3",
+        "release_name": "ESXi 7.0 Update 1d",
+        "release_date": "2021-02-02",
+        "build_number": "17551050",
+        "available_as": "Patch"
+      },
+      {
+        "version": "ESXi 7.0.1 P02",
+        "release_name": "ESXi 7.0 Update 1c",
+        "release_date": "2020-12-17",
+        "build_number": "17325551",
+        "available_as": "ISO"
+      },
+      {
+        "version": "ESXi 7.0.1 EP2",
+        "release_name": "ESXi 7.0 Update 1b",
+        "release_date": "2020-11-19",
+        "build_number": "17168206",
+        "available_as": "Patch"
+      },
+      {
+        "version": "ESXi 7.0.1 EP1",
+        "release_name": "ESXi 7.0 Update 1a",
+        "release_date": "2020-11-04",
+        "build_number": "17119627",
+        "available_as": "Patch"
+      },
+      {
+        "version": "ESXi 7.0.1",
+        "release_name": "ESXi 7.0 Update 1",
+        "release_date": "2020-10-06",
+        "build_number": "16850804",
+        "available_as": "ISO"
+      },
+      {
+        "version": "ESXi 7.0.0 P01",
+        "release_name": "ESXi 7.0b",
+        "release_date": "2020-06-23",
+        "build_number": "16324942",
+        "available_as": "ISO"
+      },
+      {
+        "version": "ESXi 7.0.0",
+        "release_name": "ESXi 7.0 GA",
+        "release_date": "2020-04-02",
+        "build_number": "15843807",
+        "available_as": "-"
+      }
+    ]
+  },
+  "vcenter_versions": {
+    "vcenter8": [
+      {
+        "release_name": "vCenter Server 8.0 Update 3e",
+        "version": "8.0.3.00500",
+        "release_date": "2025-04-11",
+        "build_number": "24674346",
+        "mob_number": "24674346"
+      },
+      {
+        "release_name": "vCenter Server 8.0 Update 3d",
+        "version": "8.0.3.00400",
+        "release_date": "2024-10-21",
+        "build_number": "24322831",
+        "mob_number": "24322831"
+      },
+      {
+        "release_name": "vCenter Server 8.0 Update 2e",
+        "version": "8.0.2.00500",
+        "release_date": "2024-10-21",
+        "build_number": "24321653",
+        "mob_number": "24321653"
+      },
+      {
+        "release_name": "vCenter Server 8.0 Update 3c",
+        "version": "8.0.3.00300",
+        "release_date": "2024-10-09",
+        "build_number": "24305161",
+        "mob_number": "24305161"
+      },
+      {
+        "release_name": "vCenter Server 8.0 Update 3b",
+        "version": "8.0.3.00200",
+        "release_date": "2024-09-17",
+        "build_number": "24262322",
+        "mob_number": "24262322"
+      },
+      {
+        "release_name": "vCenter Server 8.0 Update 3a",
+        "version": "8.0.3.00100",
+        "release_date": "2024-07-18",
+        "build_number": "24091160",
+        "mob_number": "24091160"
+      },
+      {
+        "release_name": "vCenter Server 8.0 Update 3",
+        "version": "8.0.3.00000",
+        "release_date": "2024-06-25",
+        "build_number": "24022515",
+        "mob_number": "24022515"
+      },
+      {
+        "release_name": "vCenter Server 8.0 Update 2d",
+        "version": "8.0.2.00400",
+        "release_date": "2024-06-17",
+        "build_number": "23929136",
+        "mob_number": "23929136"
+      },
+      {
+        "release_name": "vCenter Server 8.0 Update 1e",
+        "version": "8.0.1.00500",
+        "release_date": "2024-06-12",
+        "build_number": "24005165",
+        "mob_number": "24005165"
+      },
+      {
+        "release_name": "vCenter Server 8.0 Update 2c",
+        "version": "8.0.2.00300",
+        "release_date": "2024-03-26",
+        "build_number": "23504390",
+        "mob_number": "23504390"
+      },
+      {
+        "release_name": "vCenter Server 8.0 Update 2b",
+        "version": "8.0.2.00200",
+        "release_date": "2024-03-04",
+        "build_number": "23319993",
+        "mob_number": "23319993"
+      },
+      {
+        "release_name": "vCenter Server 8.0 Update 2a",
+        "version": "8.0.2.00100",
+        "release_date": "2023-10-26",
+        "build_number": "22617221",
+        "mob_number": "22617221"
+      },
+      {
+        "release_name": "vCenter Server 8.0 Update 1d",
+        "version": "8.0.1.00400",
+        "release_date": "2023-10-24",
+        "build_number": "22368047",
+        "mob_number": "22368047"
+      },
+      {
+        "release_name": "vCenter Server 8.0 Update 2",
+        "version": "8.0.2.00000",
+        "release_date": "2023-09-21",
+        "build_number": "22385739",
+        "mob_number": "22385739"
+      },
+      {
+        "release_name": "vCenter Server 8.0 Update 1c",
+        "version": "8.0.1.00300",
+        "release_date": "2023-07-27",
+        "build_number": "22088981",
+        "mob_number": "22088981"
+      },
+      {
+        "release_name": "vCenter Server 8.0 Update 1b",
+        "version": "8.0.1.00200",
+        "release_date": "2023-06-22",
+        "build_number": "21860503",
+        "mob_number": "21860503"
+      },
+      {
+        "release_name": "vCenter Server 8.0 Update 1a",
+        "version": "8.0.1.00100",
+        "release_date": "2023-06-01",
+        "build_number": "21815093",
+        "mob_number": "21815093"
+      },
+      {
+        "release_name": "vCenter Server 8.0 Update 1",
+        "version": "8.0.1.00000",
+        "release_date": "2023-04-18",
+        "build_number": "21560480",
+        "mob_number": "21560480"
+      },
+      {
+        "release_name": "vCenter Server 8.0c",
+        "version": "8.0.0.10300",
+        "release_date": "2023-03-30",
+        "build_number": "21457384",
+        "mob_number": "21457384"
+      },
+      {
+        "release_name": "vCenter Server 8.0b",
+        "version": "8.0.0.10200",
+        "release_date": "2023-02-14",
+        "build_number": "21216066",
+        "mob_number": "21216066"
+      },
+      {
+        "release_name": "vCenter Server 8.0a",
+        "version": "8.0.0.10100",
+        "release_date": "2022-12-16",
+        "build_number": "20920323",
+        "mob_number": "20920323"
+      },
+      {
+        "release_name": "vCenter Server 8.0 GA",
+        "version": "8.0.0.10000",
+        "release_date": "2022-10-11",
+        "build_number": "20519528",
+        "mob_number": "20519528"
+      }
+    ],
+    "vcenter7": [
+      {
+        "release_name": "vCenter Server 7.0 Update 3v",
+        "version": "7.0.3.02400",
+        "release_date": "2025-05-20",
+        "build_number": "24730281",
+        "mob_number": "24730281"
+      },
+      {
+        "release_name": "vCenter Server 7.0 Update 3u",
+        "version": "7.0.3.02300",
+        "release_date": "2025-04-01",
+        "build_number": "24614210",
+        "mob_number": "24614210"
+      },
+      {
+        "release_name": "vCenter Server 7.0 Update 3t",
+        "version": "7.0.3.02200",
+        "release_date": "2024-10-21",
+        "build_number": "24322018",
+        "mob_number": "24322018"
+      },
+      {
+        "release_name": "vCenter Server 7.0 Update 3s",
+        "version": "7.0.3.02100",
+        "release_date": "2024-09-17",
+        "build_number": "24201990",
+        "mob_number": "24201990"
+      },
+      {
+        "release_name": "vCenter Server 7.0 Update 3r",
+        "version": "7.0.3.02000",
+        "release_date": "2024-06-17",
+        "build_number": "24026615",
+        "mob_number": "24026615"
+      },
+      {
+        "release_name": "vCenter Server 7.0 Update 3q",
+        "version": "7.0.3.01900",
+        "release_date": "2024-05-21",
+        "build_number": "23788036",
+        "mob_number": "23788036"
+      },
+      {
+        "release_name": "vCenter Server 7.0 Update 3p",
+        "version": "7.0.3.01800",
+        "release_date": "2023-12-07",
+        "build_number": "22837322",
+        "mob_number": "22837322"
+      },
+      {
+        "release_name": "vCenter Server 7.0 Update 3o",
+        "version": "7.0.3.01700",
+        "release_date": "2023-09-28",
+        "build_number": "22357613",
+        "mob_number": "22357613"
+      },
+      {
+        "release_name": "vCenter Server 7.0 Update 3n",
+        "version": "7.0.3.01600",
+        "release_date": "2023-07-07",
+        "build_number": "21958406",
+        "mob_number": "21958406"
+      },
+      {
+        "release_name": "vCenter Server 7.0 Update 3m",
+        "version": "7.0.3.01500",
+        "release_date": "2023-06-22",
+        "build_number": "21784236",
+        "mob_number": "21784236"
+      },
+      {
+        "release_name": "vCenter Server 7.0 Update 3l",
+        "version": "7.0.3.01400",
+        "release_date": "2023-03-30",
+        "build_number": "21477706",
+        "mob_number": "21477706"
+      },
+      {
+        "release_name": "vCenter Server 7.0 Update 3k",
+        "version": "7.0.3.01300",
+        "release_date": "2023-02-23",
+        "build_number": "21290409",
+        "mob_number": "21290409"
+      },
+      {
+        "release_name": "vCenter Server 7.0 Update 3j",
+        "version": "7.0.3.01200",
+        "release_date": "2022-12-22",
+        "build_number": "20990077",
+        "mob_number": "20990077"
+      },
+      {
+        "release_name": "vCenter Server 7.0 Update 3i",
+        "version": "7.0.3.01100",
+        "release_date": "2022-12-08",
+        "build_number": "20845200",
+        "mob_number": "20845200"
+      },
+      {
+        "release_name": "vCenter Server 7.0 Update 3h",
+        "version": "7.0.3.01000",
+        "release_date": "2022-09-13",
+        "build_number": "20395099",
+        "mob_number": "20395099"
+      },
+      {
+        "release_name": "vCenter Server 7.0 Update 3g",
+        "version": "7.0.3.00800",
+        "release_date": "2022-07-23",
+        "build_number": "20150588",
+        "mob_number": "20150588"
+      },
+      {
+        "release_name": "vCenter Server 7.0 Update 3f",
+        "version": "7.0.3.00700",
+        "release_date": "2022-07-12",
+        "build_number": "20051473",
+        "mob_number": "20051473"
+      },
+      {
+        "release_name": "vCenter Server 7.0 Update 3e",
+        "version": "7.0.3.00600",
+        "release_date": "2022-05-12",
+        "build_number": "19717403",
+        "mob_number": "19717403"
+      },
+      {
+        "release_name": "vCenter Server 7.0 Update 3d",
+        "version": "7.0.3.00500",
+        "release_date": "2022-03-29",
+        "build_number": "19480866",
+        "mob_number": "19480866"
+      },
+      {
+        "release_name": "vCenter Server 7.0 Update 3c",
+        "version": "7.0.3.00300",
+        "release_date": "2022-01-27",
+        "build_number": "19234570",
+        "mob_number": "19234570"
+      },
+      {
+        "release_name": "vCenter Server 7.0 Update 3a",
+        "version": "7.0.3.00100",
+        "release_date": "2021-10-21",
+        "build_number": "18778458",
+        "mob_number": "18778458"
+      },
+      {
+        "release_name": "vCenter Server 7.0 Update 3",
+        "version": "7.0.3.00000",
+        "release_date": "2021-10-05",
+        "build_number": "18700403",
+        "mob_number": "18700403"
+      },
+      {
+        "release_name": "vCenter Server 7.0 Update 2d",
+        "version": "7.0.2.00500",
+        "release_date": "2021-09-21",
+        "build_number": "18455184",
+        "mob_number": "18455184"
+      },
+      {
+        "release_name": "vCenter Server 7.0 Update 2c",
+        "version": "7.0.2.00400",
+        "release_date": "2021-08-24",
+        "build_number": "18356314",
+        "mob_number": "18356314"
+      },
+      {
+        "release_name": "vCenter Server 7.0 Update 2b",
+        "version": "7.0.2.00200",
+        "release_date": "2021-05-25",
+        "build_number": "17958471",
+        "mob_number": "17958471"
+      },
+      {
+        "release_name": "vCenter Server 7.0 Update 2a",
+        "version": "7.0.2.00100",
+        "release_date": "2021-04-27",
+        "build_number": "17920168",
+        "mob_number": "17920168"
+      },
+      {
+        "release_name": "vCenter Server 7.0 Update 2",
+        "version": "7.0.2.00000",
+        "release_date": "2021-03-09",
+        "build_number": "17694817",
+        "mob_number": "17694817"
+      },
+      {
+        "release_name": "vCenter Server 7.0 Update 1d",
+        "version": "7.0.1.00300",
+        "release_date": "2021-02-02",
+        "build_number": "17491101",
+        "mob_number": "17491160"
+      },
+      {
+        "release_name": "vCenter Server 7.0 Update 1c",
+        "version": "7.0.1.00200",
+        "release_date": "2020-12-17",
+        "build_number": "17327517",
+        "mob_number": "17327586"
+      },
+      {
+        "release_name": "vCenter Server 7.0 Update 1a",
+        "version": "7.0.1.00100",
+        "release_date": "2020-10-22",
+        "build_number": "17004997",
+        "mob_number": "17005016"
+      },
+      {
+        "release_name": "vCenter Server 7.0 Update 1",
+        "version": "7.0.1.00000",
+        "release_date": "2020-10-06",
+        "build_number": "16860138",
+        "mob_number": "16858589"
+      },
+      {
+        "release_name": "vCenter Server 7.0.0d",
+        "version": "7.0.0.10700",
+        "release_date": "2020-08-25",
+        "build_number": "16749653",
+        "mob_number": "16749670"
+      },
+      {
+        "release_name": "vCenter Server 7.0.0c",
+        "version": "7.0.0.10600",
+        "release_date": "2020-07-30",
+        "build_number": "16620007",
+        "mob_number": "16620013"
+      },
+      {
+        "release_name": "vCenter Server 7.0.0b",
+        "version": "7.0.0.10400",
+        "release_date": "2020-06-23",
+        "build_number": "16386292",
+        "mob_number": "16386335"
+      },
+      {
+        "release_name": "vCenter Server 7.0.0a",
+        "version": "7.0.0.10300",
+        "release_date": "2020-05-19",
+        "build_number": "16189094",
+        "mob_number": "16189207"
+      },
+      {
+        "release_name": "vCenter Server 7.0 GA",
+        "version": "7.0.0.10100",
+        "release_date": "2020-04-02",
+        "build_number": "15952498",
+        "mob_number": "15952599"
+      }
+    ]
+  },
+  "vcf_versions": {
+    "vcf5": [
+      {
+        "version": "5.2.1",
+        "build": "24690695",
+        "release_date": "2025-04-30",
+        "cloud_builder": "5.2.1.2-24690695",
+        "sddc_manager": "5.2.1.2-24690695",
+        "vcenter": "8.0 U3c8.0.3.00100-24091160",
+        "esxi": "8.0 U3b8.0.3-24280767",
+        "vsan_witness": "8.0 U3b8.0.3-24280767",
+        "nsx": "4.2.1.0.0-24304122",
+        "aria_suite": "8.18-24029603"
+      },
+      {
+        "version": "5.2.1",
+        "build": "24397777",
+        "release_date": "2024-12-05",
+        "cloud_builder": "5.2.1.1-24397777",
+        "sddc_manager": "5.2.1.1-24397777",
+        "vcenter": "8.0 U3c8.0.3.00100-24091160",
+        "esxi": "8.0 U3b8.0.3-24280767",
+        "vsan_witness": "8.0 U3b8.0.3-24280767",
+        "nsx": "4.2.1.0.0-24304122",
+        "aria_suite": "8.18-24029603"
+      },
+      {
+        "version": "5.2.1",
+        "build": "24307856",
+        "release_date": "2024-07-23",
+        "cloud_builder": "5.2.1-24307856",
+        "sddc_manager": "5.2.1-24307856",
+        "vcenter": "8.0 U3c8.0.3.00100-24091160",
+        "esxi": "8.0 U3b8.0.3-24280767",
+        "vsan_witness": "8.0 U3b8.0.3-24280767",
+        "nsx": "4.2.1.0.0-24304122",
+        "aria_suite": "8.18-24029603"
+      },
+      {
+        "version": "5.2.0",
+        "build": "24108943",
+        "release_date": "2024-07-23",
+        "cloud_builder": "5.2-24108943",
+        "sddc_manager": "5.2-24108943",
+        "vcenter": "8.0 U3a 8.0.3.00100-24091160",
+        "esxi": "8.0 U3 8.0.3-24022510",
+        "vsan_witness": "8.0 U3 8.0.3-24022510",
+        "nsx": "4.2.0.0.0-24105817",
+        "aria_suite": "8.18-24029603"
+      },
+      {
+        "version": "5.1.0",
+        "build": "22688368",
+        "release_date": "2023-11-07",
+        "cloud_builder": "5.1-22688368",
+        "sddc_manager": "5.1-22688368",
+        "vcenter": "8.0 U2a8.0.2.00100-22617221",
+        "esxi": "8.0 U28.0.2-22380479",
+        "vsan_witness": "8.0 U28.0.2-22443122",
+        "nsx": "4.1.2.1.0-22667789",
+        "aria_suite": "8.14-22630473"
+      },
+      {
+        "version": "5.0.0",
+        "build": "22485660",
+        "release_date": "2023-09-29",
+        "cloud_builder": "N/A",
+        "sddc_manager": "5.0.0.1-22485660",
+        "vcenter": "8.0 U1a8.0.1.00100-21815093",
+        "esxi": "8.0 U1a8.0.1-21813344",
+        "vsan_witness": "8.0 U18.0.1-21495797",
+        "nsx": "4.1.0.2.0-21761691",
+        "aria_suite": "8.10 Patch 18.10-21331275"
+      },
+      {
+        "version": "5.0.0",
+        "build": "21822418",
+        "release_date": "2023-06-01",
+        "cloud_builder": "5.0-21822418",
+        "sddc_manager": "5.0-21822418",
+        "vcenter": "8.0 U1a8.0.1.00100-21815093",
+        "esxi": "8.0 U1a8.0.1-21813344",
+        "vsan_witness": "8.0 U18.0.1-21495797",
+        "nsx": "4.1.0.2.0-21761691",
+        "aria_suite": "8.10 Patch 18.10-21331275"
+      }
+    ]
+  }
+}
