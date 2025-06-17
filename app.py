@@ -1,46 +1,54 @@
-from flask import Flask, render_template
+from flask import Flask, render_template, jsonify
+import requests
+from bs4 import BeautifulSoup
 import json
-from vmware_versions import save_versions
+import os
+from datetime import datetime
 
 app = Flask(__name__)
 
+def get_vmware_versions():
+    try:
+        # VMware Product Downloads page
+        url = "https://customerconnect.vmware.com/downloads"
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+        }
+        
+        response = requests.get(url, headers=headers)
+        response.raise_for_status()
+        
+        soup = BeautifulSoup(response.text, 'html.parser')
+        
+        # Find all product sections
+        products = []
+        product_sections = soup.find_all('div', class_='product-downloads')
+        
+        for section in product_sections:
+            product_name = section.find('h2').text.strip()
+            version_elem = section.find('span', class_='version')
+            if version_elem:
+                version = version_elem.text.strip()
+                products.append({
+                    'name': product_name,
+                    'version': version,
+                    'last_updated': datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+                })
+        
+        return products
+    except Exception as e:
+        print(f"Error fetching VMware versions: {str(e)}")
+        return []
+
 @app.route('/')
 def index():
-    try:
-        # Try to read existing JSON file
-        with open('vmware_versions.json', 'r') as f:
-            data = json.load(f)
-            latest_tools = data['vmware_tools'][0] if data['vmware_tools'] else None
-            latest_esxi8 = data['esxi_versions']['esxi8'][0] if data['esxi_versions']['esxi8'] else None
-            latest_esxi7 = data['esxi_versions']['esxi7'][0] if data['esxi_versions']['esxi7'] else None
-            latest_vcenter8 = data['vcenter_versions']['vcenter8'][0] if data['vcenter_versions']['vcenter8'] else None
-            latest_vcenter7 = data['vcenter_versions']['vcenter7'][0] if data['vcenter_versions']['vcenter7'] else None
-            latest_vcf5 = data['vcf_versions']['vcf5'][0] if data['vcf_versions']['vcf5'] else None
-            last_updated = data['last_updated']
-    except FileNotFoundError:
-        # If file doesn't exist, scrape the data
-        data = save_versions()
-        latest_tools = data['vmware_tools'][0] if data['vmware_tools'] else None
-        latest_esxi8 = data['esxi_versions']['esxi8'][0] if data['esxi_versions']['esxi8'] else None
-        latest_esxi7 = data['esxi_versions']['esxi7'][0] if data['esxi_versions']['esxi7'] else None
-        latest_vcenter8 = data['vcenter_versions']['vcenter8'][0] if data['vcenter_versions']['vcenter8'] else None
-        latest_vcenter7 = data['vcenter_versions']['vcenter7'][0] if data['vcenter_versions']['vcenter7'] else None
-        latest_vcf5 = data['vcf_versions']['vcf5'][0] if data['vcf_versions']['vcf5'] else None
-        last_updated = data['last_updated']
-    
-    return render_template('index.html', 
-                         latest_tools=latest_tools,
-                         latest_esxi8=latest_esxi8,
-                         latest_esxi7=latest_esxi7,
-                         latest_vcenter8=latest_vcenter8,
-                         latest_vcenter7=latest_vcenter7,
-                         latest_vcf5=latest_vcf5,
-                         last_updated=last_updated)
+    versions = get_vmware_versions()
+    return render_template('index.html', versions=versions)
 
-@app.route('/refresh')
-def refresh():
-    save_versions()
-    return {'success': True, 'message': 'Data refreshed successfully'}
+@app.route('/api/versions')
+def get_versions():
+    versions = get_vmware_versions()
+    return jsonify(versions)
 
 if __name__ == '__main__':
     app.run(debug=True) 
