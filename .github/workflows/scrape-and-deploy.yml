@@ -26,6 +26,10 @@ jobs:
       run: |
         python vmware_versions.py
         
+    - name: Start Gunicorn server
+      run: |
+        gunicorn --bind 0.0.0.0:8000 wsgi:app &
+        
     - name: Deploy to Netlify
       uses: nwtgck/actions-netlify@v2
       with:
