@@ -1,0 +1,15 @@
+{
+  "name": "vmware-versions",
+  "version": "1.0.0",
+  "description": "VMware Versions Tracker",
+  "scripts": {
+    "build": "netlify build",
+    "dev": "netlify dev"
+  },
+  "dependencies": {
+    "@netlify/plugin-python": "^1.0.0"
+  },
+  "devDependencies": {
+    "netlify-cli": "^17.0.0"
+  }
+} 
